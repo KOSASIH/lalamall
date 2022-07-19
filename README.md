@@ -1,5 +1,5 @@
 ![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=moment&package-manager=npm_and_yarn&previous-version=2.29.1&new-version=2.29.4)
-
+[![Dependency Review](https://github.com/KOSASIH/lalamall/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/lalamall/actions/workflows/dependency-review.yml)
 [![CodeQL](https://github.com/KOSASIH/lalamall/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/lalamall/actions/workflows/codeql-analysis.yml)
 # Sanity.io and Next.js Ecommerce Starter
 
