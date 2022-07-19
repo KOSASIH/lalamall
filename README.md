@@ -1,5 +1,6 @@
 ![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=moment&package-manager=npm_and_yarn&previous-version=2.29.1&new-version=2.29.4)
 
+[![CodeQL](https://github.com/KOSASIH/lalamall/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/lalamall/actions/workflows/codeql-analysis.yml)
 # Sanity.io and Next.js Ecommerce Starter
 
 This is an e-commerce *starter* that features a studio with a simple Next.js frontend.
